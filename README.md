@@ -1,7 +1,7 @@
 # World War I 1914 Balanced
 <br>How to download this map:
 <ul>
-<li>Click on the green button that says "<> Code".</li>
+<li>Click on the green button that says "Code".</li>
 <li>Click on "Download ZIP".</li>
 <li>Unzip the file.</li>
 <li>Note that in the folder called "World-War-1-1914-Balanced-main", there is another folder with the same name. One of them needs to be removed. To do this, click on the second folder, cut it, go back to the main folder, and paste. It should have replaced the main folder with the folder inside.</li> 
