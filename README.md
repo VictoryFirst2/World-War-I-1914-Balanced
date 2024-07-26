@@ -11,7 +11,7 @@
 <li>Place the file in your TripleA downloadedMaps folder.</li>
 <li>While following these steps, make sure to replace all zipped files with unzipped ones.</li>
 </ul>
-<br>If you follow these steps, the map should show up when you click on "Select Game" after having booted up TripleA, under the name "World War I Improved".
+<br>If you have followed these steps, the map should show up when you click on "Select Game" after having booted up TripleA, under the name "World War I Balanced".
 <br>
 <br>An overview of the improvements and balancing changes can be found in the game notes.
 <br>
